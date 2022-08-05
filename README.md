@@ -1,5 +1,5 @@
-# Best-Ad-Predictor
-__________________________________
+# Best-Ad-Predictor-using-Upper-Confidence-Bound-Algorithm
+_________________________________________________________________________________________________________________
 
 ## REQUIREMENTS
 
